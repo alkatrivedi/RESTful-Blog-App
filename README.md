@@ -1,3 +1,3 @@
 A RESTful blog app.
 
-<img src="Capture.JPG">
+<img src="assests/Capture.JPG">
